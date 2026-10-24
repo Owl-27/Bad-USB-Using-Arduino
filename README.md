@@ -30,7 +30,4 @@ This project is intended for educational use and authorized security testing onl
 ## Learning Outcomes
 This project demonstrates embedded programming, USB HID concepts, hardware input handling, EEPROM storage, and awareness of USB-based security threats.
 
-## Author
-Nandana Ajilal
-
 **Field:** Cybersecurity | Ethical Hacking | Embedded Security
